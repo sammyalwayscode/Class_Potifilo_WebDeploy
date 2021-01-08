@@ -1,0 +1,36 @@
+.parentContainer{
+  height: 100vh;
+  width: 100vw;
+  background-color: #3a3a3a;
+}
+
+.parentContainerWrapper{
+  display: flex;
+}
+
+.centerCircle{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 50px;
+ margin-left: 460px;
+}
+
+.donateButton{
+  height: 35px;
+  width: 120px;
+  background-color: #abe7e3;
+  border: none;
+  border-radius: 0px 0px 6px 0px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.headerText{
+  display: flex;
+  justify-content: center;
+  margin-top: -22px;
+  color: white;
+  letter-spacing: 11px;
+  font-weight: bold;
+}

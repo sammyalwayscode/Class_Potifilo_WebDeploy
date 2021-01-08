@@ -1,0 +1,52 @@
+.mainFooter{
+  /* margin-top: 300px; */
+  display: flex;
+  margin-top: 230px;
+  margin-left: 30px;
+  
+}
+
+/* .arrow{
+  height: 30px;
+  width: 30px;
+} */
+
+.one{
+  font-size: 40px;
+  color: gainsboro;
+}
+
+.wwww{
+  font-size: 40px;
+  color: gainsboro;
+ 
+
+}
+
+.two{
+  font-size: 35px;
+  margin-top: 45px;
+  color: gainsboro;
+}
+
+.three{
+  font-size: 20px;
+  margin-top: 55px;
+  color: gainsboro;
+}
+
+.sam{
+  display: flex;
+  margin-left: 700px;
+  color: white;
+  font-size: 65px;
+  margin-top: -70px;
+}
+
+.link{
+  text-decoration: none;
+  color: white;
+  font-weight: lighter;
+  
+
+}

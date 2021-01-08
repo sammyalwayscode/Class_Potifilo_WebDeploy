@@ -1,0 +1,35 @@
+.bodyContainer{
+  margin-top: -350px;
+}
+
+.quote{
+  margin-left: 40px;
+  letter-spacing: 10px;
+  color: rgb(240, 226, 199);
+  font-weight: lighter;
+}
+
+.mainImage{
+  margin-top: -134px;
+  margin-left: 500px;
+}
+
+.four{
+  margin-top: -430px;
+  font-size: 70px;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 140px;
+  color: gainsboro;
+  opacity: 0.10;
+}
+
+.code{
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 70px;
+  letter-spacing: 12px;
+  font-weight: lighter;
+  color: gainsboro;
+  margin-top: -100px;
+}
